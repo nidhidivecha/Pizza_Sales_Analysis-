@@ -47,7 +47,13 @@ Creating interactive and dynamic Pizza Sales KPI dashboards to monitor key perfo
 Dashboards contain multiple visualizations and filters, enabling users to drill down into specific aspects of Pizza Sales analytics.
 In this project, we have created a Home page from where you can navigate to the Best/Worst Sellers page for the Top and Bottom-selling pizzas-related Analysis. On Home Page, we have shown Pizza Sales information related to various fields.
 
+# Home Page
+
 ![1](https://github.com/nidhidivecha/Pizza_Sales/assets/54711762/cb2c650a-ae44-4af4-bb57-5890c4b5c7c1)
+
+
+# Best/Worst Sellers
+
 ![2](https://github.com/nidhidivecha/Pizza_Sales/assets/54711762/50639fa3-8ce3-4341-88d9-3ce326c16d4a)
 
 
